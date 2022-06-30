@@ -6,6 +6,7 @@ from scipy import ndimage as nd
 from matplotlib.patches import Rectangle
 import numpy as np
 from PIL import *
+#using Python Imaging Library, pillow library
 
 class IMaGE(object):
     def __init__(self,fit = False):

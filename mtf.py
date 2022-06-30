@@ -1,5 +1,6 @@
 #MTF calculation
 from __future__ import division
+#__future__ seems to deal with legacy code, to be changed.
 import matplotlib.pyplot as plt
 from scipy import ndimage as nd
 from matplotlib.patches import Rectangle
